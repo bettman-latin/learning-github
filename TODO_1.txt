@@ -1,4 +1,4 @@
 In this file, add your name in a link to your fork of this repo on git:
 
-Mx. Hansberry (https://github.com/anhansberry/learning-github)
+McKenna F (https://github.com/mckenna-rf/learning-github)
 
