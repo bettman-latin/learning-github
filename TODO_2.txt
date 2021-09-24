@@ -1,3 +1,5 @@
 In this file, add one question you have about git and/or GitHub.
 
 1. What is the difference between 'Git' and 'Github'?
+2. What is the benefit of using git and GitHub?
+3. Will we be using a lot of people's Github code
